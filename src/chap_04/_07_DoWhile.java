@@ -34,7 +34,5 @@ public class _07_DoWhile {
             move +=3;
         } while (move + height < distance);
         System.out.println("도착했습니다.");
-
-        //
     }
 }
